@@ -55,7 +55,7 @@ The first page acts as a bird’s-eye view of the job market. It displays:
 
 ### Page 2 – Job Role Drill-Through
 
-![Project_2_Dashboard_2](Page_2_img - Copy.png)
+![Project_2_Dashboard_2](Page_2_img.png)
 
 From Page 1, you can drill into this detailed view for any job title. Here you’ll find:
 
@@ -85,4 +85,5 @@ From Page 1, you can drill into this detailed view for any job title. Here you�
 ## Conclusion
 
 This dashboard serves as a career decision-making assistant for anyone interested in the data field. By combining market statistics, salary benchmarks, and hiring patterns into an interactive visual format, it enables users to quickly identify promising opportunities and better plan their career trajectory.
+
 
