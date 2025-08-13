@@ -37,7 +37,7 @@ This project put multiple Power BI skills into action:
 
 ### Page 1 – Market Summary View
 
-![Project_1_Dashboard_1](/First_Project/Page_1_img.png)
+![Project_1_Dashboard_1](Page_1_img.png)
 
 The first page acts as a bird’s-eye view of the job market. It displays:
 
@@ -83,4 +83,5 @@ From Page 1, you can drill into this detailed view for any job title. Here you�
 ---
 
 ## Conclusion
+
 This dashboard serves as a career decision-making assistant for anyone interested in the data field. By combining market statistics, salary benchmarks, and hiring patterns into an interactive visual format, it enables users to quickly identify promising opportunities and better plan their career trajectory.
